@@ -1,5 +1,5 @@
-C:\Users\linos\Downloads\ARMCHART
-
+## C:\Users\linos\Downloads\ARMCHART
+```
 npm i -g create-nuxt-app@2.1.1
 create-nuxt-app gorilla-news
 
@@ -36,10 +36,16 @@ vue create my-vue-editor-app
 npm install @amcharts/amcharts4
 npm install --save-dev --unsafe-perm node-sass
 npm install @amcharts/amcharts4
+```
 
+
+## Tasks
+```
 
 
 https://www.amcharts.com/demos/drawing-chart-series-with-mouse-or-touch/
 https://www.amcharts.com/docs/v4/getting-started/integrations/using-vue-js/
 https://www.amcharts.com/demos/pie-chart-with-legend/
 https://www.amcharts.com/demos/drawing-chart-series-with-mouse-or-touch/
+
+```
