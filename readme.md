@@ -28,12 +28,13 @@ https://www.amcharts.com/demos/drawing-chart-series-with-mouse-or-touch/
 
 Here are screens shots from the application accuracy plots and User experiece interfaces
 
-![M#01](https://github.com/LINOSNCHENA/Angular-ngselect/blob/master/UXViews/page1.png)
-![M#02](https://github.com/LINOSNCHENA/Angular-ngselect/blob/master/UXViews/page2.png)
+![M#01](https://github.com/LINOSNCHENA/TOOLTIP-AND-AMCHARTS/blob/master/UXView/page1.png)
+![M#02](https://github.com/LINOSNCHENA/TOOLTIP-AND-AMCHARTS/blob/master/UXView/page1.png)
 
 
 
 ## Version - Week #xxx
+
 ```
     17/09/2021
     23/03/2022
