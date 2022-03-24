@@ -1,5 +1,5 @@
 module.exports = {
     runtimeCompiler: true,
     lintOnSave: false,
-    devServer: { port: 4200 }
+    devServer: { port: 4201 }
   }

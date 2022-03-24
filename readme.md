@@ -31,6 +31,9 @@ Here are screens shots from the application accuracy plots and User experiece in
 ![M#01](https://github.com/LINOSNCHENA/TOOLTIP-AND-AMCHARTS/blob/master/UXView/page1.png)
 ![M#02](https://github.com/LINOSNCHENA/TOOLTIP-AND-AMCHARTS/blob/master/UXView/page2.png)
 
+![M#03](https://github.com/LINOSNCHENA/TOOLTIP-AND-AMCHARTS/blob/master/UXView/page3.png)
+![M#04](https://github.com/LINOSNCHENA/TOOLTIP-AND-AMCHARTS/blob/master/UXView/page4.png)
+
 
 
 ## Version - Week #51
