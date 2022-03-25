@@ -1,6 +1,6 @@
 <template>
       <div>
-      <h1>Vue Plugins</h1>
+      <h1>2- Nuxt-Vue Plugins</h1>
       <button v-tooltip.top-center="msg">Hover me</button>
     </div>
 </template>

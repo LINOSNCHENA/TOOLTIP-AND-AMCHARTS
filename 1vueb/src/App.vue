@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Vue1b- CEZ Graph AMChart</h2>
+    <h2>1- Vue- CEZ Graph AMChart</h2>
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
